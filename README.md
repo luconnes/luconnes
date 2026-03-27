@@ -1,20 +1,40 @@
-# 👋 Hey there, I'm Ashton!
-Architect of the digital unknown. Building high-impact websites, apps, and SaaS products from Christchurch, New Zealand.
+# Olá, eu sou o Lucas Azevedo! 👋
 
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+Sou estudante de **Ciência da Computação** na Universidade Católica de Pernambuco e atuei como **Trainee em Transformação Digital e auxiliar em gerenciamento de projetos** no meu último emprego. Tenho uma base sólida em desenvolvimento de software, algoritmos, redes e governança de TI.
 
-I specialize in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends engineering leadership with a passion for web architecture and developer experience, turning complex challenges into opportunities.
+Atualmente, foco em projetos que unem eficiência técnica à análise de dados e automação de processos.
 
-🔭 Leading teams on transformative projects to reshape industries.
+---
 
-🌱 Continuously learning and empowering others through mentorship and collaboration.
+### 🛠️ Tecnologias
 
-🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
+### 📈 Experiência & Projetos
+
+* **Transformação Digital @ Central IT:** Atuação em estratégias de negócios digitais, automação de processos e coleta de feedbacks para melhoria contínua.
+* **Projetos de Destaque:**
+    * **Heatmap de Densidade Wi-Fi:** Monitoramento em tempo real.
+    * **Pokébolsa:** Repositório de desenvolvimento.
+    * **Fazer Cultura:** Repositório de gestão/divulgação.
+
+---
+
+### 🎓 Formação e Certificações
+
+* **Graduação:** Ciência da Computação - UNICAP (Março de 2023 - Junho de 2027).
+* **Certificados:** UX & Design Thinking,Oratória, Modelagem de Processos (BPMN/Bizagi) e Análise de Dados no Power BI.
+* **Idiomas:** Inglês Avançado e Espanhol Básico.
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-azevedo-31a202291/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrdazevedo@gmail.com)
