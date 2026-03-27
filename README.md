@@ -29,7 +29,7 @@ Atualmente, foco em projetos que unem eficiência técnica à análise de dados 
 ### 🎓 Formação e Certificações
 
 * **Graduação:** Ciência da Computação - UNICAP (Março de 2023 - Junho de 2027).
-* **Certificados:** UX & Design Thinking,Oratória, Modelagem de Processos (BPMN/Bizagi) e Análise de Dados no Power BI.
+* **Certificados:** UX & Design Thinking, Oratória, Modelagem de Processos (BPMN/Bizagi) e Análise de Dados no Power BI.
 * **Idiomas:** Inglês Avançado e Espanhol Básico.
 
 ---
