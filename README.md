@@ -18,7 +18,7 @@ Atualmente, foco em projetos que unem eficiência técnica à análise de dados 
 
 ### 📈 Experiência & Projetos
 
-* **Transformação Digital @ Central IT:** Atuação em estratégias de negócios digitais, automação de processos e coleta de feedbacks para melhoria contínua.
+* **Transformação Digital :** Atuação em estratégias de negócios digitais, automação de processos e coleta de feedbacks para melhoria contínua.
 * **Projetos de Destaque:**
     * **Heatmap de Densidade Wi-Fi:** Monitoramento em tempo real.
     * **Pokébolsa:** Repositório de desenvolvimento.
